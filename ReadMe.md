@@ -1,4 +1,6 @@
-# Error処理
+# Youtubeのリンクは以下
+https://www.youtube.com/watch?v=tdewmH9IBqw
+## Error処理
 ## Expoのエラー
 https://github.com/th3rdwave/react-native-safe-area-context/issues/110#issuecomment-668864576
 
