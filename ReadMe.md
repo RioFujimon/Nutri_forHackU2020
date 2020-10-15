@@ -1,4 +1,4 @@
-# Youtubeのリンクは以下
+# YouTubeのリンクは以下
 https://www.youtube.com/watch?v=tdewmH9IBqw
 時間：1時間34分〜
 
